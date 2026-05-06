@@ -1,6 +1,6 @@
 # ☕ Starbucks Rewards — Customer Analytics
 
-> **End-to-end marketing analytics project** covering customer segmentation, A/B testing, CLV modelling, funnel analysis, and channel performance — built on the Starbucks Rewards mobile app simulation dataset.
+> **End-to-end marketing analytics project** covering customer segmentation, A/B testing, CLV modelling, funnel analysis, and channel performance - built on the Starbucks Rewards mobile app simulation dataset.
 
 ---
 
